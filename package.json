@@ -1,0 +1,14 @@
+{
+  "name": "zeus-v5-pro",
+  "version": "5.0.0",
+  "description": "ZEUS V5 AI Trading Bot Premium Core",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "ws": "^8.16.0",
+    "dotenv": "^16.4.5"
+  }
+}
